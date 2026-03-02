@@ -9,3 +9,5 @@ The second model integrates 1D-CNN layers, stacked BiLSTMs, and a custom attenti
 Both models were trained using oversampling and monitored through macro-F1 rather than accuracy, since accuracy is misleading under class imbalance. Additional feature engineering—such as computing statistical descriptors for joints and metadata—helped capture subtle variations in the motion sequences. Overall, both architectures generalize well, with the second showing stronger robustness thanks to the combination of CNNs, LSTMs, metadata integration, and a custom attention mechanism.
 
 Future improvements could explore transformer-based sequence models, more extensive augmentation strategies, and denoising techniques for joint trajectories. This project demonstrates the effectiveness of combining temporal modeling, attention mechanisms, and metadata fusion for human-motion-based pain classification.
+
+Report: [Project Report (PDF)](https://drive.google.com/file/d/1UsHJz0IRaBnknXr7svaC6fxX09HfVLs7/view?usp=sharing)
