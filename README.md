@@ -10,4 +10,4 @@ Both models were trained using oversampling and monitored through macro-F1 rathe
 
 Future improvements could explore transformer-based sequence models, more extensive augmentation strategies, and denoising techniques for joint trajectories. This project demonstrates the effectiveness of combining temporal modeling, attention mechanisms, and metadata fusion for human-motion-based pain classification.
 
-Report: [Project Report (PDF)](https://drive.google.com/file/d/1UsHJz0IRaBnknXr7svaC6fxX09HfVLs7/view?usp=sharing)
+Report: [Project Report (PDF)](https://drive.google.com/file/d/1UsHJz0IRaBnknXr7svaC6fxXO9HfVLs7/view?usp=sharing)
