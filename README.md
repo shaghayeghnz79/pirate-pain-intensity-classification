@@ -11,7 +11,7 @@ Both models were trained using oversampling and monitored through macro-F1 rathe
 Future improvements could explore transformer-based sequence models, more extensive augmentation strategies, and denoising techniques for joint trajectories. This project demonstrates the effectiveness of combining temporal modeling, attention mechanisms, and metadata fusion for human-motion-based pain classification.
 
 ## Team / Contributors
-- [Amirali Askari](https://www.linkedin.com/in/amirali-askari-874263264/) (GitHub: [@amiraliaskari2014](https://github.com/amiraliaskari2014)) (GitHub: @amiraliaskari2014 ) 
+- [Amirali Askari](https://www.linkedin.com/in/amirali-askari-874263264/) (GitHub: [@amiraliaskari2014](https://github.com/amiraliaskari2014)) 
 ## Report and Required Data
 Report: [Project Report (PDF)](https://drive.google.com/file/d/1UsHJz0IRaBnknXr7svaC6fxXO9HfVLs7/view?usp=sharing)
 Download: [Dataset (Google Drive)](https://drive.google.com/file/d/1cbYSYR5HkYrwpVRZ-OkbD0Jpq_wsLahk/view?usp=sharing)
