@@ -1,4 +1,4 @@
-# pirate-pain-intensity-classification
+# Pirate Pain Intensity Classification
 
 This project presents a deep learning approach for classifying pain intensity from 3D skeletal motion data, created as part of the Pirate Pain Intensity Classification Challenge. Each sample in the dataset contains 31 skeletal joint measurements recorded across 160 timesteps, and the task is to predict whether the subject is experiencing no pain, low pain, or high pain. The data presents several challenges, including severe class imbalance—where the high-pain category appears rarely—and noisy or low-variance joint channels that require careful preprocessing.
 
